@@ -21,7 +21,7 @@ This project is made for monitoring the appearance of specified files in specifi
 
 After downloading the `.zip` file, keep all files in the same directory. Keep the name of the configuration file unchanged as `config.ini`. Read the next session and make sure you have the configuration file paramenters correct. Change the paths location to an existing path before running.
 
-In case of deleting the configuration file accidentally, simply running the `main.py` can recreate the default configuration file.
+In case of deleting the configuration file accidentally, running the `main.py` will recreate the default configuration file.
 
 
 
